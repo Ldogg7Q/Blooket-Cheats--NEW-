@@ -5,7 +5,7 @@ If any cheats are not working, try copying them from the repo again, _then_ make
 ## [Support Server](https://discord.gg/QerPBatcca)
 ## [Instructions for importing bookmarklets](tutorial/readme.md)
 
-Cheats made by someone who knows more about what they're doing
+ATTENTION: All credits go to Minesraft2.
 
 # Todo
 
